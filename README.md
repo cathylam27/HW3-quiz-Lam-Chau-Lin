@@ -33,4 +33,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 # Contact
 Chau Lin Lam
 c_lam151841@fanshaweonline.ca
-Project Link: https://github.com/cathylam27/HW3-Lam-Chau-Lin.git
+Project Link: https://github.com/cathylam27/HW3-quiz-Lam-Chau-Lin
